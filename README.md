@@ -25,3 +25,7 @@ A common LSTM unit is composed of a cell, an input gate, an output gate and a fo
 </td>
 </tr>
 </table>
+
+
+
+“This project is derived from an MIT-licensed repository with extensive modifications. See /legacy_reference for original references.”
